@@ -7,9 +7,11 @@ and https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnB
 
 ## Code and Resource used:
 
-Python Version: 3.7
-Packages: pandas, numpy, sklearn, matplotlib, seaborn
-Generation of synthetic samples: https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
+**Python Version**: 3.7
+
+**Packages**: pandas, numpy, sklearn, matplotlib, seaborn.
+
+**Generation of synthetic samples:** https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
 
 ## **1.  Exploratoy Data Analysis (EDA)**
 ## **2.  Feature Engineering**
