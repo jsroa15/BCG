@@ -33,3 +33,4 @@ and https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnB
 *  After running the baseline model, I used robust models:Random Forest, Decision Tree, Gradient Boosting, AdaBoosting, and XGBoost. Best performance with Xgboost and Random Forest.
 *  Hyperparameter tunig for best models.
 *  Feature importance analysis.
+*  Final model: Xgboost Classifier. ROC-AUC Score: 68.13
