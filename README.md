@@ -1,4 +1,4 @@
- # Virtual Experience BCG
+# Virtual Experience BCG
 
 This repository contains my work on the virtual experience with BCG GAMMA.
 
